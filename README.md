@@ -1,2 +1,3 @@
-# Equal_road_for_all
-Code for Equal Road Conditions for Everyone
+# Equal road conditions for everyone can be a co-benefit of road maintenance
+Supporting code for Equal road conditions for everyone can be a co-benefit of road maintenance
+
